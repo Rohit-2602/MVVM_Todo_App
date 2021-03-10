@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MVVM Todo App</string>
+    <string name="task_name">Task Name</string>
+    <string name="important">Important</string>
+    <string name="date_created">Date Created :</string>
+    <string name="task_title_here">Task Title Here</string>
+    <string name="search">Search</string>
+    <string name="sort">Sort</string>
+    <string name="sort_by_name">Sort By Name</string>
+    <string name="sort_by_date">Sort By Date</string>
+    <string name="hide_completed">Hide Completed</string>
+    <string name="delete_all">Delete All</string>
+    <string name="_17_59_23">17:59:23</string>
+</resources>
